@@ -16,3 +16,9 @@ I am looking for PhD programs in Robotics and Computer Science starting in Fall 
 
 ## Teaching
 [ME 3017 System Dynamics](https://me.gatech.edu/files/ug/me3017.pdf) Fall 2020 - Present, TA
+
+## Contact
+
+**Email** zzhang741@gatech.edu
+**LinkedIn** 
+**Phone**
