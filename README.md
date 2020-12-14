@@ -12,4 +12,5 @@ I am currently looking for PhD programs in Robotics and Computer Science startin
 
 **November 2019** Received [President's Undergraduate Research Award](http://www.undergradresearch.gatech.edu/pura-salary) (PURA) Fellowship
 
-
+## Teaching
+[ME 3017 System Dynamics](https://me.gatech.edu/files/ug/me3017.pdf) Fall 2020 - Present, TA
