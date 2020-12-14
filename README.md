@@ -5,3 +5,6 @@ I am a third-year B.S. candidate in [Mechanical Engineering](https://www.me.gate
 
 ## News
 
+**November 2020** Sumbitted Abstract to [The Tower](https://gttower.org/)
+
+**November 2019** Received [President's Undergraduate Research Award](http://www.undergradresearch.gatech.edu/pura-salary) 
