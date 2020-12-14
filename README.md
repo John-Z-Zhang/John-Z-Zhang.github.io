@@ -20,5 +20,6 @@ I am looking for PhD programs in Robotics and Computer Science starting in Fall 
 ## Contact
 
 **Email** zzhang741@gatech.edu
-**LinkedIn** 
-**Phone**
+
+[**LinkedIn**](https://www.linkedin.com/in/john-zhang-01/)
+
