@@ -6,7 +6,7 @@ I am a third-year B.S. candidate in [Mechanical Engineering](https://www.me.gate
 ## Research
 I am looking for PhD programs in Robotics and Computer Science starting in Fall 2022. I am broadly interested in expanding the boundaries of robot capabilities through intelligent planning, control, and learning. 
 
-My undergraduate research focuses on modeling and control of highly dynamic robot behaviors such as bipedal locomotion and hand-grasping manipulation. My work leverages both low-level dynamics modeling and higher-level controls optimization. My current research reasons through contact uncertainty during trajectory optimization and motion planning phases in robot locomotion problems. Our work could improve robot control algorithms in real world scenarios where contact parameters cannot be precisely measured, and frequent disturbances can be expected.
+My undergraduate research focuses on modeling and control of highly dynamic robot behaviors such as bipedal locomotion and hand-grasping manipulation. My work leverages both low-level dynamics modeling and higher-level controls optimization. My current research reasons through contact uncertainty during trajectory optimization and motion planning phases in robot locomotion problems.
 
 ## News
 **November 2020** Sumbitted [Abstract](https://raw.githubusercontent.com/John-Z-Zhang/John-Z-Zhang.github.io/main/docs/The_Tower_Abstract.pdf) to [The Tower](https://gttower.org/)
